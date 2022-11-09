@@ -4,22 +4,22 @@ const data=[
     {
         name:'Anant PS.',
         headingReview:'Thanks!',
-        text:'You helped me to be a good programmer insted you helped me to learn java! Thanks Team Dark Sky!',
+        text:'Nice Pens!',
     },
     {
         name:'Jay Aditya K.',
         headingReview:'Hello',
-        text:'Jay here, I am here thank you for the programming classes. The lessons which were taught are helping me in my career of coding! and all credit goes to Dark Sky Studios! '
+        text:'Much ink helps to write much'
     },
     {
         name:'Yug R.',
         headingReview:'Amazing',
-        text:'Yoo! Here you can easily learn programming!!! les gooooo!'
+        text:'Lesss goooooooo! new pens ofcourse, try it!'
     },
     {
         name:'Mr.RealBakaMC :)',
-        headingReview:'Nice classes',
-        text:'The things which are taught are actually very useful! you deserve 5 stars! keep your hard work going on non-stop! '
+        headingReview:'Nice',
+        text:'These pens are nice!'
     }
 ];
 
